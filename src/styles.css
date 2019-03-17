@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+.wrapper {
+   margin: 50px auto;
+   width: 650px;
+   text-align: center;
+}
+
+.wrapper h1 {
+   margin-bottom: 50px;
+}
+
+.demo-block {
+   background: red;
+   width: 200px;
+   height: 200px;
+   display: inline-block;
+}
