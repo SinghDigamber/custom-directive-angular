@@ -1,5 +1,10 @@
 # CustomDirectiveAngular
 
+This is a little Angular 2+ demo app in which i will tell you how to create rounded corners of HTML div with the help of Angular custom directives.
+
+## Step by step Tutorial
+[Creating Custom Directives in Angular 7](https://www.positronx.io/creating-custom-directives-angular-7/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
 ## Development server
